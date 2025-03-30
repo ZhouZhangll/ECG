@@ -39,11 +39,17 @@ This project is designed for processing and classifying electrocardiogram (ECG) 
 
 # Dependencies
 Ensure the following dependencies are installed:
+
 python 3.11
+
 torch >= 2.6
+
 opencv >= 4.9
+
 numpy >= 1.14.3
+
 pandas >= 2.2.2
+
 matplotlib >= 3.2
 
 # Usage
