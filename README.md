@@ -5,8 +5,10 @@ This project is designed for processing and classifying electrocardiogram (ECG) 
 
 ```
 ├── data
-│   ├── Raw ECG PDF files
-│   ├── Processed datasets
+│   ├── ecg_data
+│   │   ├── pdf # Raw ECG PDF files
+│   │   ├── datasets # Time-series ECG datasets
+│   │   ├── image_datasets # Image-based ECG datasets
 │
 ├── utils
 │   ├── Utility functions and helper scripts
